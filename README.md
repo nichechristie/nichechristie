@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋## About Me
 
-<!--
-**nichechristie/nichechristie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer • Tech enthusiast • Housewife • Mad scientist
 
-Here are some ideas to get you started:
+**Skills:**  
+- Python, Java  
+- Machine Learning, Model Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Favorite Project:**  
+- LDD (Lighting Diamond Device / Life Delivery Device / Lighting Diamond Deal) — a technology I am passionate about for its potential in revolutionizing energy and life support systems.
+
+**Affiliations & Inspirations:**  
+- Supporter of SpaceX, Neuralink, and Tesla  
+- Driven by the desire to help terraform Mars using LDD technology
+
+**What I Enjoy:**  
+- Training AI daily with custom equation sets, chat data, and advanced training tools  
+- Exploring new frontiers in artificial intelligence and scientific discovery
+
+**Social Links:**  
+- Twitter: [@NicholeC98741](https://twitter.com/NicholeC98741)
+- LinkedIn: [Nichole Christie](https://www.linkedin.com/in/nichole-christie-25565632b)
+
+---
+
+> **"Life is meant to be lived"**
+
+Let’s build the future—on Earth and beyond!
