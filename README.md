@@ -11,7 +11,7 @@ AI engineer • Tech enthusiast • Housewife • Mad scientist
 
 **Affiliations & Inspirations:**  
 - Supporter of SpaceX, Neuralink, and Tesla  
-- Driven by the desire to help terraform Mars using LDD technology
+- Driven by the desire to help save the world and terraform Mars using LDD technology
 
 **What I Enjoy:**  
 - Training AI daily with custom equation sets, chat data, and advanced training tools  
