@@ -1,3 +1,7 @@
+
+![nichechristie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichechristie&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichechristie&layout=compact)
+
 💎💎# Lighting Diamond Device (LDD) — Revolutionizing Energy & Life Support💎💎
       ** The Wood Wide Web**
 
