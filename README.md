@@ -26,4 +26,5 @@ AI engineer • Tech enthusiast • Housewife • Mad scientist
 > **"Life is meant to be lived"**
 
 Let’s build the future—on Earth and beyond!
-![nichechristie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichechristie&show_icons=true&theme=default))
+
+![nichechristie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichechristie&show_icons=true&theme=default)
