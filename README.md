@@ -28,3 +28,5 @@ AI engineer • Tech enthusiast • Housewife • Mad scientist
 Let’s build the future—on Earth and beyond!
 
 ![nichechristie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichechristie&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichechristie&layout=compact)
