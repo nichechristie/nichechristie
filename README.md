@@ -1,3 +1,5 @@
+<img src="https://algora.io/og/user/nichechristie" />
+
 # Nichole Christie — AI Innovator, Builder & Inventor
 
 Hi, I’m Nichole Christie!  
