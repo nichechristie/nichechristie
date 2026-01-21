@@ -24,7 +24,7 @@ Python 🐍 | Rust 🦀 | TypeScript | Solidity | Qiskit
 ---
 
 ### 💌 Say Hi
-[LinkedIn](https://www.linkedin.com/in/nichole-christie-25565632b) ✨ [GitHub](https://github.com/nichechristie)
+[Facebook](https://www.facebook.com/nichole.christie.7) ✨ [LinkedIn](https://www.linkedin.com/in/nichole-christie-25565632b) ✨ [GitHub](https://github.com/nichechristie)
 
 ---
 
