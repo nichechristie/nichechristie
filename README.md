@@ -6,6 +6,10 @@
 
 ### 🔮 What I've Built
 
+**[Awesome ETH Linter](https://github.com/nichechristie/Awesome-ETH-Linter)** 🔍🛡️
+LLM-powered Ethereum protocol security linter — flags spec drift between consensus specs and client implementations.
+🌐 [Live App](https://awesome-eth-linter.vercel.app/)
+
 **[LUXBIN Quantum Internet](https://github.com/nichechristie/quantum-internet)** 🌐⚛️
 Connecting 803 qubits across 12+ quantum computers in 4 countries — because why not?
 📰 [Featured in a quantum computing publication!](https://bsiegelwax.substack.com/p/luxbin-quantum-internet)
